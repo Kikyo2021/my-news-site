@@ -2,7 +2,7 @@
 title: "台積電擴大美國產能 供應鏈韌性再升級"
 description: "台積電宣布進一步擴充海外布局，帶動台灣半導體生態系走向全球。"
 pubDate: "2026-06-15"
-heroImage: "/blog-placeholder-2.jpg"
+heroImage: "/blog-placeholder-1.jpg"
 ---
 
 因應全球 AI 晶片需求暴增，台積電（TSMC）持續強化供應鏈的全球化佈局。除了深耕台灣先進製程，台積電也同步擴大在美國與日本的產能規劃。
